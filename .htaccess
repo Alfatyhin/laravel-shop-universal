@@ -1,0 +1,1 @@
+AddHandler application/x-httpd-php74 .inc .php .php4 .php3 .php5 .phtml .phps # phpvs v74
